@@ -1,0 +1,28 @@
+name: Natsu 夏
+favicon: null
+layout_spectrum: 0.7508774467278272
+typography_spectrum: 0.27687645447440445
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.1857987311668694
+  lightness: 0.8881901476997882
+  saturation: 0.0013000075705349445
+  rhythmicContrast: 0.6292126982007176
+purpose: []
